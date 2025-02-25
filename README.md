@@ -1,6 +1,8 @@
 Resumen del Proyecto
 El frontend de la aplicación de carrito de compras está construido con React y utiliza Material UI para la interfaz de usuario. Se conecta a un backend para gestionar productos, agregar artículos al carrito y realizar el proceso de compra. La aplicación está diseñada para ser modular, escalable y fácil de mantener.
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 Tecnologías Clave
 React (v19.0.0): Biblioteca principal para construir la interfaz de usuario.
 
